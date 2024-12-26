@@ -9,7 +9,7 @@ require (
 	github.com/google/go-github/v64 v64.0.0
 	golang.org/x/crypto v0.21.0
 	golang.org/x/term v0.18.0
-	google.golang.org/appengine v1.6.7
+	google.golang.org/appengine v1.6.8
 )
 
 require (

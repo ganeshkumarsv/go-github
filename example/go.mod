@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
-	github.com/gofri/go-github-ratelimit v1.0.3
+	github.com/gofri/go-github-ratelimit v1.1.0
 	github.com/google/go-github/v64 v64.0.0
 	golang.org/x/crypto v0.21.0
 	golang.org/x/term v0.18.0

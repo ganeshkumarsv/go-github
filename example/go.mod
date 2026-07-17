@@ -1,14 +1,14 @@
 module github.com/google/go-github/v64/example
 
-go 1.21
+go 1.25.0
 
 require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
 	github.com/gofri/go-github-ratelimit v1.0.3
 	github.com/google/go-github/v64 v64.0.0
-	golang.org/x/crypto v0.21.0
-	golang.org/x/term v0.18.0
+	golang.org/x/crypto v0.52.0
+	golang.org/x/term v0.43.0
 	google.golang.org/appengine v1.6.7
 )
 
@@ -18,8 +18,8 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-github/v41 v41.0.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
-	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 )
 

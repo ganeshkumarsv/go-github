@@ -2,7 +2,7 @@ module tools
 
 go 1.21
 
-toolchain go1.22.0
+toolchain go1.27.2
 
 require (
 	github.com/alecthomas/kong v0.9.0
